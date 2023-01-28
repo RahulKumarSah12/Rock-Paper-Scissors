@@ -104,4 +104,4 @@ while(play != "No"):
     play = input("\nDo you want to play this game again (Type 'Yes' or 'No') : ")
 
 
-print("*******\nGAME OVER, THANKS FOR PLAYING********")
+print("\n*******GAME OVER, THANKS FOR PLAYING********")
