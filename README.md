@@ -1,1 +1,1 @@
-# rock-paper-scissors-game.github.io
+# A simple Rock, Paper and Scissors game using Python
